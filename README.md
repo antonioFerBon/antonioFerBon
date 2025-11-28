@@ -53,11 +53,13 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
 
 ###
 
-<h2 align="left">__Redes sociales:__</h2>
+<h2 align="left">Redes sociales:</h2>
 
 ###
 
