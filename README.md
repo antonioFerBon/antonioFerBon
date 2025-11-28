@@ -57,7 +57,7 @@
 
 ###
 
-<h2 align="left">Redes sociales:</h2>
+<h2 align="left">__Redes sociales:__</h2>
 
 ###
 
@@ -75,6 +75,6 @@
 
 ###
 
-<p align="left">cerecilla22@gmail.com<br>+34 633 422 961</p>
+<p align="left">--> cerecilla22@gmail.com<br>-->    +34 633 422 961</p>
 
 ###
