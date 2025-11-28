@@ -53,7 +53,7 @@
 
 ###
 
-<img align="left" height="220" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
 
 ###
 
