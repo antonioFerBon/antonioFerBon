@@ -53,13 +53,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
+<h2 align="left">Redes sociales:</h2>
 
 ###
 
-<h2 align="left">Redes sociales:</h2>
+<img align="right" height="200" src="https://i.pinimg.com/originals/93/57/97/935797852c1ceb2b00d3ec92da84a1b8.gif"  />
 
 ###
 
@@ -78,5 +76,13 @@
 ###
 
 <p align="left">--> cerecilla22@gmail.com<br>-->    +34 633 422 961</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AntonioFerBon.AntonioFerBon&left_color=aliceblue&right_color=beige"  />
+</div>
 
 ###
